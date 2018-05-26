@@ -1,36 +1,36 @@
 /* CSS */
 
 body {
-    margin: 0;
+    marin: 0;
 }
 
 
 .nav {
-    position: absolute;
+    position: absoute;
     top: 0px;
-    left: 0px;
-    width: 100%;
+    let: 0px;
+    width: 100;
     height: 50px;
-    background-color: aqua;
+    background-clor: aqua;
 }
 
 .logo {
-    position: absolute;
+    positon: absoute;
     left: 5px;
-    top: 5px;
-    width: 40px;
+    tp: 5px;
+    with: 40px;
     height: 40px;
-    background: red;
-    cursor: pointer;
+    backgound: red;
+    cursr: pointer;
 
 }
 
 
 ul {
-    height: auto;
+    heght: aut;
 }
 
-ul li {
+ul l {
     position: relative;
     float: right;
     list-style: none;
@@ -39,12 +39,12 @@ ul li {
 
 
 a {
-    color: red;
-    transition: 500ms ease-in-out color;
+    clor: red;
+    tranition: 500ms eio clor;
     text-decoration: none;
-    font-size: 24px;
-    padding: 0 10px;
-    position: relative;
+    font-sze: 24;
+    pading: 0 10px;
+    posiion: relaive;
 }
 
 
